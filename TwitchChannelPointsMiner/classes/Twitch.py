@@ -1,4 +1,5 @@
-# For documentation on Twitch GraphQL API see:
+
+     # For documentation on Twitch GraphQL API see:
 # https://www.apollographql.com/docs/
 # https://github.com/mauricew/twitch-graphql-api
 # Full list of available methods: https://azr.ivr.fi/schema/query.doc.html (a bit outdated)
